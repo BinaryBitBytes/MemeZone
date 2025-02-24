@@ -1,0 +1,21 @@
+{
+  "twitter": {
+    "api_key": "",
+    "api_secret": "",
+    "access_token": "",
+    "access_token_secret": ""
+  },
+  "dexscreener": {
+    "url": "https://api.dexscreener.com/latest/dex/search?q="
+  },
+  "gmgn": {
+    "url": "https://gmgn.ai"
+  },
+  "pumpfun": {
+    "url": "https://pump.fun"
+  },
+  "tweetscout": {
+    "base_url": "https://app.tweetscout.io",
+    "search_endpoint": "/search"
+  }
+}

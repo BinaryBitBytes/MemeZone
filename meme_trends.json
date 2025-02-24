@@ -1,0 +1,13 @@
+{
+  "dexscreener": [],
+  "gmgn": [],
+  "pumpfun": [],
+  "tweetscout": [],
+  "errors": {
+    "Dexscreener": "404 Client Error: Not Found for url: https://api.dexscreener.com/latest/dex/tokens",
+    "GMGN": "HTTPSConnectionPool(host='gmgn.com', port=443): Max retries exceeded with url: /latest-tokens (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001EBF388AC90>: Failed to resolve 'gmgn.com' ([Errno 11001] getaddrinfo failed)\"))",
+    "Pumpfun": "HTTPSConnectionPool(host='pumpfun.com', port=443): Max retries exceeded with url: /new-tokens (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pumpfun.com'. (_ssl.c:1002)\")))",
+    "TweetScout": "403 Client Error: Forbidden for url: https://app.tweetscout.io/search?query=memecoin&type=account"
+  },
+  "progress": "Aggregation complete."
+}
