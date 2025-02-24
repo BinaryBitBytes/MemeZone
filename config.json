@@ -1,9 +1,9 @@
 {
   "twitter": {
-    "api_key": "",
-    "api_secret": "",
-    "access_token": "",
-    "access_token_secret": ""
+    "api_key": "IJUaF8m5Q12BJlMGRIhRZJukN",
+    "api_secret": "p7rAAjrYgBZEj4QwI84FQi74oPaj2dXruPFq2DJyyDh2ZwomVM",
+    "access_token": "1703851324633186304-O11kzLGEDXO1bSjgyXgXEg97DptiFy",
+    "access_token_secret": "kwPYxKKhHqQo3B6QgRH3lp81LI8tUldWIzxNgKsDrcc6X"
   },
   "dexscreener": {
     "url": "https://api.dexscreener.com/latest/dex/search?q="
