@@ -1,0 +1,10 @@
+C:\Users\Miles\Documents\GIT\MemeZone\3JS\target\debug\deps\libbevy_window-e5caac2bfa1b7c8c.rmeta: C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\lib.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\cursor.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\event.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\raw_handle.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\system.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\window.rs
+
+C:\Users\Miles\Documents\GIT\MemeZone\3JS\target\debug\deps\bevy_window-e5caac2bfa1b7c8c.d: C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\lib.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\cursor.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\event.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\raw_handle.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\system.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\window.rs
+
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\lib.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\cursor.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\event.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\raw_handle.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\system.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.14.2\src\window.rs:

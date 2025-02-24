@@ -1,0 +1,12 @@
+C:\Users\Miles\Documents\GIT\MemeZone\3JS\target\debug\deps\libbitflags-237579a450726af8.rmeta: C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\lib.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\iter.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\parser.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\traits.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\public.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\internal.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external\serde.rs
+
+C:\Users\Miles\Documents\GIT\MemeZone\3JS\target\debug\deps\bitflags-237579a450726af8.d: C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\lib.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\iter.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\parser.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\traits.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\public.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\internal.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external.rs C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external\serde.rs
+
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\lib.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\iter.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\parser.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\traits.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\public.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\internal.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external.rs:
+C:\Users\Miles\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.8.0\src\external\serde.rs:
