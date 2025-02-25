@@ -9,10 +9,10 @@ const MAZE_WIDTH: usize = 20;
 const MAZE_HEIGHT: usize = 15;
 
 // Colors
-const WALL_COLOR: Color = Color::BLACK;
-const PATH_COLOR: Color = Color::WHITE;
-const PLAYER_COLOR: Color = Color::RED;
-const GOAL_COLOR: Color = Color::GREEN;
+const WALL_COLOR: Color = Color::BLACK; // Still valid
+const PATH_COLOR: Color = Color::WHITE; // Still valid
+const PLAYER_COLOR: Color = Color::srgb(1.0, 0.0, 0.0); // Red in sRGB (r, g, b)
+const GOAL_COLOR: Color = Color::srgb(0.0, 1.0, 0.0); // Green in sRGB (r, g, b)
 
 // Maze cell representation
 #[derive(Clone, Copy, PartialEq)]

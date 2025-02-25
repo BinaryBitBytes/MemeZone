@@ -221,7 +221,7 @@ fn move_player(
 
     if maze.is_path(new_pos.0, new_pos.1) {
         transform.translation.x = new_pos.0 as f32 * CELL_SIZE;
-        transform.translation.y = (MAZE_HEIGHT - new_pos.1 - 1) as f32 * CELL_SIZE;
+        transform.translation.y = (MAZE_HEIGHT as i32 - new_pos.1 - 1) as f32 * CELL_SIZE;
     }
 }
 
